@@ -1,0 +1,15 @@
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.exe.config
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.exe
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.pdb
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csprojAssemblyReference.cache
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.Form1.resources
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.Properties.Resources.resources
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csproj.GenerateResource.cache
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.exe
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.pdb
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.Form2.resources
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.Stores.resources
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.The_inside.resources
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.The_outside.resources
+C:\Users\Xhemo\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.Main.resources
